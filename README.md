@@ -4,6 +4,7 @@ I am a Computer Science student and currently attend the Code Platoon boot camp,
 
 <div id="badges">
   <h3>Connect with me!</h3>
+  <div style="width:100%;height:100px;border-bottom:1px solid rgba(255,255,255,.25);"></div>
   <a href="www.linkedin.com/in/thomas-childress-9a3118228">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,6 +13,6 @@ I am a Computer Science student and currently attend the Code Platoon boot camp,
   </a>
 </div>
 
-
+<div></div>
 
 ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=chiltom)
