@@ -2,7 +2,7 @@
 
 I am a Computer Science student and currently attend the Code Platoon boot camp, aspiring to be a Full Stack Software Engineer.
 
-<div id="badges" style="text-align: center;">
+<div id="badges">
   <h3>Connect with me!</h3>
   <a href="www.linkedin.com/in/thomas-childress-9a3118228">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
