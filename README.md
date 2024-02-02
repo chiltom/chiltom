@@ -1,4 +1,4 @@
-<h1 align=center>![github-header-image](https://github.com/chiltom/chiltom/assets/70041142/c1dff7e3-42e3-47a8-814c-3d8cec52ceec)</h1>
+<h1 align=center><img src="https://github.com/chiltom/chiltom/assets/70041142/c1dff7e3-42e3-47a8-814c-3d8cec52ceec"></h1>
 
 I am a Computer Science student and currently attend the Code Platoon boot camp, transitioning to be a Full Stack Software Engineer.
 
