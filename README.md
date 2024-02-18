@@ -1,5 +1,5 @@
 <img align ="center" src="https://github.com/chiltom/chiltom/assets/70041142/c1dff7e3-42e3-47a8-814c-3d8cec52ceec">
-<p align="center">I'm a Computer Science student and attend the Code Platoon boot camp, transitioning from the military and preparing for a Full Stack Software Engineer position.</p>
+<p>I'm a Computer Science student and attend the Code Platoon boot camp, transitioning from the military and preparing for a Full Stack Software Engineer position.</p>
 
 <br/>
 
