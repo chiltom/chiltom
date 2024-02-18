@@ -22,8 +22,3 @@
 </div>
 
 <br/>
-
-<h2 align="left">Stats</h2>
-<div id="stats" align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chiltom&theme=dark&border_radius=2" alt="GitHub Streak" /></a>
-</div>
