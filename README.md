@@ -17,7 +17,7 @@
 <h2 align="left">Connect with me!</h2>
 <div id="connectbadges" align="left">
   <a href="mailto:thomas.childress02@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" target="_blank"/></a>
-  <a href="www.linkedin.com/in/thomas-childress-9a3118228"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/thomas-childress-9a3118228"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/></a>
   <a href="https://discordapp.com/users/chil.tom/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" target="_blank"/></a>
 </div>
 
