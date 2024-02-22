@@ -4,7 +4,7 @@
 
 <br/>
 
-<h3 align="left">Constantly Learning: Skills, Languages, and Frameworks</h3>
+<h2 align="left">Constantly Learning: Skills, Languages, and Frameworks</h2>
   <div id="languagebadges" align="left">
     <a title="skills" href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git"/></a>
     <a title="skills" href="https://docs.github.com/en" target="blank"><img src="https://skillicons.dev/icons?i=github"/></a>
@@ -18,7 +18,7 @@
 
 <br/>
 
-<h3 align="left">Connect with me!</h3>
+<h2 align="left">Connect with me!</h2>
 <div id="connectbadges" align="left">
   <a href="mailto:thomas.childress02@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/thomas-childress-9a3118228"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/></a>
