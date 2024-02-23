@@ -30,7 +30,7 @@
 
 <h2 align="left">Stats ⚡</h2>
 <div id="statscontainer" align="left">
-  ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiltom&show_icons=true&theme=radical)
+  [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiltom&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app)
 </div>
 
 <br/>
