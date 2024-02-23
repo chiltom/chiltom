@@ -32,7 +32,7 @@
 <div id="statscontainer" align="left">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chiltom&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=chiltom&show_icons=true&theme=onedark"
     media="(prefers-color-scheme: dark)"
   />
   <source
