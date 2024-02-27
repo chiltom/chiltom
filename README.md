@@ -1,4 +1,4 @@
-<img align ="center" src="https://github.com/chiltom/chiltom/assets/70041142/c1dff7e3-42e3-47a8-814c-3d8cec52ceec">
+<img align ="center" src="https://avatarfiles.alphacoders.com/367/367401.png">
 <br/>
 <h4>I'm attending Code Platoon's Immersive Software Engineering boot camp preparing for a Full-Stack Software Engineer position.</h4>
 
