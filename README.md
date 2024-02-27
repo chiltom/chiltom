@@ -1,4 +1,6 @@
-<img align="center" src="https://avatarfiles.alphacoders.com/367/367401.png" width="400px" height="300px"><h4>I'm attending Code Platoon's Immersive Software Engineering boot camp preparing for a Full-Stack Software Engineer position.</h4>
+<p align="center"><img src="https://avatarfiles.alphacoders.com/367/367401.png" width="400px" height="300px"></p>
+<br/>
+<h4>I'm attending Code Platoon's Immersive Software Engineering boot camp preparing for a Full-Stack Software Engineer position.</h4>
 
 <br/>
 
