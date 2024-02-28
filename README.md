@@ -11,7 +11,7 @@
     <a title="Java" href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java"/></a>
     <a title="Python" href="https://docs.python.org/3/" target="blank"><img src="https://skillicons.dev/icons?i=python"/></a>
     <a title="Node.js" href="https://nodejs.org/docs/latest/api/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
-    <a title="NPM" href="https://docs.npmjs.com/" target="blank><img src="https://skillicons.dev/icons?i=npm"/></a>
+    <a title="NPM" href="https://docs.npmjs.com/" target="blank"><img src="https://skillicons.dev/icons?i=npm"/></a>
     <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js"/></a>
     <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html"/></a>
     <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css"/></a>
