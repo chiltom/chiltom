@@ -13,6 +13,7 @@
     <a title="Node.js" href="https://nodejs.org/docs/latest/api/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
     <a title="React" href="https://react.dev/" target="blank"><img src="https://skillicons.dev/icons?i=react"/></a>
     <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js"/></a>
+    <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=ts"/></a>
     <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html"/></a>
     <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css"/></a>
 </div>
