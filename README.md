@@ -1,4 +1,4 @@
-<p align="center"><img src="/1328866.png" width="600px" height="350px"></p>
+<p align="center"><img src="/1328866.png" width="500px" height="350px"></p>
 <h4>I'm attending Code Platoon's Immersive Software Engineering boot camp preparing for a Full-Stack Software Engineer position.</h4>
 
 <br/>
