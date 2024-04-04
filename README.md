@@ -1,5 +1,5 @@
-<p align="center"><img src="/1328866.png" width="500px" height="400px"></p>
-<h4>Hey! I'm Tom, a six-year Army veteran and life-long student with a passion for technology. I've spent spent some time in different places around the world and worked in different career fields, my most recent being aircraft maintenance and component testing. Before and during my time traveling with the Army and working as an aircraft technician, I consistently studied software development in college and personally to leverage my curiosity, passion, and drive in a productive manner. In my experience, technology has become an integral aspect of our everyday lives. This truth continues to excite me, making me eager to learn more every day and become a more efficient, quality software engineer.</h4>
+<p align="center"><img src="/1328866.png" width="600px" height="350px"></p>
+<p>Hey! I'm Tom, a six-year Army veteran and life-long student with a passion for technology. I've spent spent some time in different places around the world and worked in different career fields, my most recent being aircraft maintenance and component testing. Before and during my time traveling with the Army and working as an aircraft technician, I consistently studied software development in college and personally to leverage my curiosity, passion, and drive in a productive manner. In my experience, technology has become an integral aspect of our everyday lives. This truth continues to excite me, making me eager to learn more every day and become a more efficient, quality software engineer.</p>
 
 <br/>
 
