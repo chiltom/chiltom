@@ -7,7 +7,7 @@
 <br/>
 
 <h2 align="center">Constantly Learning: Skills, Languages, and Frameworks</h2>
-  <div id="languagebadges" align="center">
+  <div id="languagebadges1" align="center">
     <a title="Git" href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git"/></a>
     <a title="GitHub" href="https://docs.github.com/en" target="blank"><img src="https://skillicons.dev/icons?i=github"/></a>
     <a title="Docker" href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
@@ -15,13 +15,15 @@
     <a title="Java" href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java"/></a>
     <a title="Django" href="https://docs.djangoproject.com/en/5.0/" target="blank"><img src="https://skillicons.dev/icons?i=django"/></a>
     <a title="Python" href="https://docs.python.org/3/" target="blank"><img src="https://skillicons.dev/icons?i=python"/></a>
+  </div>
+  <div id="languagebadges2" align="center">
     <a title="Node.js" href="https://nodejs.org/docs/latest/api/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
     <a title="React" href="https://react.dev/" target="blank"><img src="https://skillicons.dev/icons?i=react"/></a>
     <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js"/></a>
     <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=ts"/></a>
     <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html"/></a>
     <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css"/></a>
-</div>
+  </div>
 
 <br/>
 
