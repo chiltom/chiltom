@@ -7,6 +7,7 @@
   <div id="languagebadges" align="left">
     <a title="Git" href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git"/></a>
     <a title="GitHub" href="https://docs.github.com/en" target="blank"><img src="https://skillicons.dev/icons?i=github"/></a>
+    <a title="Docker" href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
     <a title="PostgreSQL" href="https://www.postgresql.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=postgres"/></a>
     <a title="Java" href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java"/></a>
     <a title="Django" href="https://docs.djangoproject.com/en/5.0/" target="blank"><img src="https://skillicons.dev/icons?i=django"/></a>
