@@ -10,13 +10,14 @@
   <div id="languagebadges1" align="center">
     <a title="Git" href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git"/></a>
     <a title="GitHub" href="https://docs.github.com/en" target="blank"><img src="https://skillicons.dev/icons?i=github"/></a>
+    <a title="AWS" href="https://docs.aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws"/></a>
     <a title="Docker" href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
     <a title="PostgreSQL" href="https://www.postgresql.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=postgres"/></a>
     <a title="Java" href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java"/></a>
     <a title="Django" href="https://docs.djangoproject.com/en/5.0/" target="blank"><img src="https://skillicons.dev/icons?i=django"/></a>
-    <a title="Python" href="https://docs.python.org/3/" target="blank"><img src="https://skillicons.dev/icons?i=python"/></a>
   </div>
   <div id="languagebadges2" align="center">
+    <a title="Python" href="https://docs.python.org/3/" target="blank"><img src="https://skillicons.dev/icons?i=python"/></a>
     <a title="Node.js" href="https://nodejs.org/docs/latest/api/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
     <a title="React" href="https://react.dev/" target="blank"><img src="https://skillicons.dev/icons?i=react"/></a>
     <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js"/></a>
