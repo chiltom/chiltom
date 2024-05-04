@@ -28,6 +28,14 @@
 
 <br/>
 
+<h2 align="center">Certifications</h2>
+<div id="certifications" align="center">
+  <img src="https://www.credly.com/badges/1a2792fc-d5eb-4a21-8047-98e4ca71bd29/public_url"/>
+  <img src="https://www.credly.com/badges/c7cfd528-c74e-405a-b02e-cce1f3f2daab/public_url"/>
+</div>
+
+<br/>
+
 <h2 align="center">Connect with me!</h2>
 <div id="connectbadges" align="center">
   <a href="mailto:thomas.childress02@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" target="_blank"/></a>
