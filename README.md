@@ -30,10 +30,8 @@
 
 <h2 align="center">Certifications</h2>
 <div id="certifications1" align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c7cfd528-c74e-405a-b02e-cce1f3f2daab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async     
-  src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a2792fc-d5eb-4a21-8047-98e4ca71bd29" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async 
-  src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c7cfd528-c74e-405a-b02e-cce1f3f2daab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a2792fc-d5eb-4a21-8047-98e4ca71bd29" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 <h2 align="center">Connect with me!</h2>
