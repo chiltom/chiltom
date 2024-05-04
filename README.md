@@ -26,14 +26,6 @@
     <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css"/></a>
   </div>
 
-<br/>
-
-<h2 align="center">Certifications</h2>
-<div id="certifications1" align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c7cfd528-c74e-405a-b02e-cce1f3f2daab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a2792fc-d5eb-4a21-8047-98e4ca71bd29" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
-
 <h2 align="center">Connect with me!</h2>
 <div id="connectbadges" align="center">
   <a href="mailto:thomas.childress02@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" target="_blank"/></a>
