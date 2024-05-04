@@ -30,8 +30,8 @@
 
 <h2 align="center">Certifications</h2>
 <div id="certifications" align="center">
-  ![SAFe 6.0 Practitioner](./certified-safe-6-practitioner.png)
-  ![AWS Cloud Practitioner](./aws-certified-cloud-practitioner.png)
+  <img src="./certified-safe-6-practitioner.png"/>
+  <img src="./aws-certified-cloud-practitioner.png"/>
 </div>
 
 <br/>
