@@ -30,8 +30,8 @@
 
 <h2 align="center">Certifications</h2>
 <div id="certifications" align="center">
-  <img src="https://www.credly.com/badges/1a2792fc-d5eb-4a21-8047-98e4ca71bd29/public_url"/>
-  <img src="https://www.credly.com/badges/c7cfd528-c74e-405a-b02e-cce1f3f2daab/public_url"/>
+  ![SAFe 6.0 Practitioner](./certified-safe-6-practitioner.png)
+  ![AWS Cloud Practitioner](./aws-certified-cloud-practitioner.png)
 </div>
 
 <br/>
