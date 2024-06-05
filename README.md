@@ -6,7 +6,7 @@
 
 <br/>
 
-<h2 align="center">Constantly Learning: Skills, Languages, and Frameworks</h2>
+<h2 align="center">Skills, Languages, and Frameworks</h2>
   <div id="languagebadges1" align="center">
     <a title="Git" href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git"/></a>
     <a title="GitHub" href="https://docs.github.com/en" target="blank"><img src="https://skillicons.dev/icons?i=github"/></a>
