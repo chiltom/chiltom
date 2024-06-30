@@ -10,19 +10,36 @@
 
 <br/>
 
-<h2 align="center">Skills, Languages, and Frameworks</h2>
-  <div id="languagebadges1" align="center">
-    <a title="AWS" href="https://docs.aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws"/></a>
-    <a title="Terraform" href="https://developer.hashicorp.com/terraform/docs" target="blank"><img src="https://skillicons.dev/icons?i=terraform"/></a>
-    <a title="Docker" href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
-    <a title="PostgreSQL" href="https://www.postgresql.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=postgres"/></a>
-    <a title="Java" href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java"/></a>
+<h2 align="center">Data Engineering</h2>
+  <div id="data_engineering" align="center">
+    <a title="Databricks" href="https://docs.databricks.com/en/index.html" target="blank"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" /></a>
+    <a title="Apache Spark" href="https://spark.apache.org/docs/latest/" target="blank"><img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" /></a>
+    <a title="Pandas" href="https://pandas.pydata.org/docs/" target="blank"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
+    <a title="PyTorch" href="https://pytorch.org/docs/stable/index.html" target="blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
   </div>
-  <div id="languagebadges2" align="center">
-    <a title="Node.js" href="https://nodejs.org/docs/latest/api/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
-    <a title="React" href="https://react.dev/" target="blank"><img src="https://skillicons.dev/icons?i=react"/></a>
-    <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=ts"/></a>
-    <a title="Django" href="https://docs.djangoproject.com/en/5.0/" target="blank"><img src="https://skillicons.dev/icons?i=django"/></a>
+
+<br/>
+
+<h2 align="center">Full-Stack Software Development</h2>
+  <div id="full_stack_1" align="center">
+    <a title="Node.js" href="https://nodejs.org/docs/latest/api/" target="blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+    <a title="React" href="https://react.dev/" target="blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+    <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+    <a title="DRF" href="https://www.django-rest-framework.org/" target="blank"><img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/></a>
+  </div>
+  <div id="full_stack_2" align="center">
+    <a title="Django Channels" href="https://channels.readthedocs.io/en/latest/" target="blank"><img src="https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green" /></a>
+    <a title="PostgreSQL" href="https://www.postgresql.org/docs/" target="blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+    <a title="Redis" href="https://redis.io/docs/latest/" target="blank"><img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" /></a>
+  </div>
+
+<br/>
+
+<h2 align="center">Cloud/Containerization</h2>
+  <div id="cloud_containerization" align="center">
+    <a title="AWS" href="https://docs.aws.amazon.com/" target="blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+    <a title="Terraform" href="https://developer.hashicorp.com/terraform/docs" target="blank"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+    <a title="Docker" href="https://docs.docker.com/" target="blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
   </div>
 
 <br/>
