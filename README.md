@@ -2,28 +2,27 @@
 
 <br/>
 
-<p>Hey! I'm Tom, a six-year Army veteran and life-long student with a passion for technology. I've spent some time in different places around the world and worked in different career fields, my most recent being aircraft maintenance and component testing. Before and during my time traveling with the Army and working as an aircraft technician, I consistently studied software development in college and personally to leverage my curiosity, passion, and drive in a productive manner. In my experience, technology has become an integral aspect of our everyday lives. This truth continues to excite me, making me eager to learn more every day and become a more efficient, quality software engineer.</p>
+<p>Hey! I'm Tom, a six-year Army veteran and life-long student with a passion for technology. I've traveled the world and worked in various fields, gaining diverse experiences that have shaped my career and mindset. As a data engineer and full-stack software developer, I am dedicated to leveraging my curiosity, passion, and drive to build innovative and efficient solutions.</p>
+
+<p>Throughout my career, I have consistently studied and applied software development, DevOps, and data engineering principles, always eager to learn and adapt to new technologies. I believe that technology is an integral part of our everyday lives, and this fact continues to inspire and motivate me to grow as a professional.</p>
+
+<p>I am always eager to learn and collaborate on all things software engineering! Let's connect and explore how we can work together to drive innovation and success.</p>
 
 <br/>
 
 <h2 align="center">Skills, Languages, and Frameworks</h2>
   <div id="languagebadges1" align="center">
-    <a title="Git" href="https://git-scm.com/doc" target="blank"><img src="https://skillicons.dev/icons?i=git"/></a>
-    <a title="GitHub" href="https://docs.github.com/en" target="blank"><img src="https://skillicons.dev/icons?i=github"/></a>
     <a title="AWS" href="https://docs.aws.amazon.com/" target="blank"><img src="https://skillicons.dev/icons?i=aws"/></a>
+    <a title="Terraform" href="https://developer.hashicorp.com/terraform/docs" target="blank"><img src="https://skillicons.dev/icons?i=terraform"/></a>
     <a title="Docker" href="https://docs.docker.com/" target="blank"><img src="https://skillicons.dev/icons?i=docker"/></a>
     <a title="PostgreSQL" href="https://www.postgresql.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=postgres"/></a>
     <a title="Java" href="https://docs.oracle.com/en/java/" target="blank"><img src="https://skillicons.dev/icons?i=java"/></a>
-    <a title="Django" href="https://docs.djangoproject.com/en/5.0/" target="blank"><img src="https://skillicons.dev/icons?i=django"/></a>
   </div>
   <div id="languagebadges2" align="center">
-    <a title="Python" href="https://docs.python.org/3/" target="blank"><img src="https://skillicons.dev/icons?i=python"/></a>
     <a title="Node.js" href="https://nodejs.org/docs/latest/api/" target="blank"><img src="https://skillicons.dev/icons?i=nodejs"/></a>
     <a title="React" href="https://react.dev/" target="blank"><img src="https://skillicons.dev/icons?i=react"/></a>
-    <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://skillicons.dev/icons?i=js"/></a>
     <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank"><img src="https://skillicons.dev/icons?i=ts"/></a>
-    <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img src="https://skillicons.dev/icons?i=html"/></a>
-    <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://skillicons.dev/icons?i=css"/></a>
+    <a title="Django" href="https://docs.djangoproject.com/en/5.0/" target="blank"><img src="https://skillicons.dev/icons?i=django"/></a>
   </div>
 
 <br/>
@@ -41,7 +40,6 @@
   <a href="mailto:thomas.childress02@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/thomas-childress"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/></a>
   <a href="https://twitter.com/chil_tom2"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" target="_blank"/></a>
-  <a href="https://discordapp.com/users/chil.tom/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" target="_blank"/></a>
 </div>
 
 <br/>
