@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/yoshi_computer.jpeg" width="600px" height="350px" alt="puter" />
+  <img src="/yoshi_computer.jpeg" width="400px" height="200px" alt="puter" />
 </div>
 
 <br/>
