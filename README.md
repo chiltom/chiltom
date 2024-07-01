@@ -32,8 +32,8 @@
       </a>
     </td>
     <td align="center">
-      <a title="Node.js" href="https://nodejs.org/docs/latest/api/" target="blank">
-        <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <a title="React" href="https://react.dev/" target="blank">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       </a>
     </td>
     <td align="center">
@@ -49,8 +49,8 @@
       </a>
     </td>
     <td align="center">
-      <a title="React" href="https://react.dev/" target="blank">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       </a>
     </td>
     <td align="center">
@@ -66,8 +66,8 @@
       </a>
     </td>
     <td align="center">
-      <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <a title="PostgreSQL" href="https://www.postgresql.org/docs/" target="blank">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
       </a>
     </td>
     <td align="center">
@@ -94,11 +94,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a title="PostgreSQL" href="https://www.postgresql.org/docs/" target="blank">
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      </a>
-    </td>
+    <td align="center"></td>
     <td align="center">
       <a title="Django Channels" href="https://channels.readthedocs.io/en/latest/" target="blank">
         <img src="https://img.shields.io/badge/daphne-092E20?style=for-the-badge&logo=django&logoColor=green" />
