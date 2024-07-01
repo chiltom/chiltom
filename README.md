@@ -1,6 +1,8 @@
-<div align="left">
+<div align="center">
   <img src="/yoshi_computer.jpeg" width="600px" height="350px" alt="puter" />
 </div>
+
+<br/>
 
 <p align="left">
   <strong>Hey! I'm Tom.</strong> I'm a six-year Army veteran and life-long student with a passion for technology. I've traveled the world and worked in various fields, gaining diverse experiences that have shaped my career and mindset. As a data engineer and full-stack software developer, I am dedicated to leveraging my curiosity, passion, and drive to build innovative and efficient solutions.
