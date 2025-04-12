@@ -4,7 +4,7 @@
 
 <br/>
 
-<p align="left">
+<p align="center">
   <strong>Hey! I'm Tom.</strong> 
 </p>
 
