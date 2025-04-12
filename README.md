@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="35" height="35" /><span>\t</span><strong>Hey! I'm Tom.</strong>
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50" /><strong>   Hey! I'm Tom.</strong>
 </p>
 
 <p align="center">
