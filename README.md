@@ -5,7 +5,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="25" height="25" /><strong>Hey! I'm Tom.</strong> 
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="35" height="35" />
+</p>
+
+<p align="center">
+  <strong>Hey! I'm Tom.</strong> 
 </p>
 
 <br/>
