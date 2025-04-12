@@ -49,8 +49,8 @@
       </a>
     </td>
     <td align="center">
-      <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <a title="Go" href="https://go.dev/doc/" target="blank">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       </a>
     </td>
     <td align="center">
@@ -83,8 +83,8 @@
       </a>
     </td>
     <td align="center">
-      <a title="DRF" href="https://www.django-rest-framework.org/" target="blank">
-        <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+      <a title="TypeScript" href="https://www.typescriptlang.org/docs/" target="blank">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
       </a>
     </td>
     <td align="center">
