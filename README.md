@@ -32,8 +32,8 @@
       </a>
     </td>
     <td align="center">
-      <a title="React" href="https://react.dev/" target="blank">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <a title="Go" href="https://go.dev/doc/" target="blank">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
       </a>
     </td>
     <td align="center">
@@ -49,8 +49,8 @@
       </a>
     </td>
     <td align="center">
-      <a title="Go" href="https://go.dev/doc/" target="blank">
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      <a title="React" href="https://react.dev/" target="blank">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       </a>
     </td>
     <td align="center">
