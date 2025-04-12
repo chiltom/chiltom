@@ -5,15 +5,7 @@
 <br/>
 
 <p align="left">
-  <strong>Hey! I'm Tom.</strong> I'm a six-year Army veteran and life-long student with a passion for technology. I've traveled the world and worked in various fields, gaining diverse experiences that have shaped my career and mindset. As a data engineer and full-stack software developer, I am dedicated to leveraging my curiosity, passion, and drive to build innovative and efficient solutions.
-</p>
-
-<p align="left">
-  Throughout my career, I have consistently studied and applied software development, DevOps, and data engineering principles, always eager to learn and adapt to new technologies. I believe that technology is an integral part of our everyday lives, and this fact continues to inspire and motivate me to grow as a professional.
-</p>
-
-<p align="left">
-  I am always eager to learn and collaborate on all things software engineering! Let's connect and explore how we can work together to drive innovation and success.
+  <strong>Hey! I'm Tom.</strong> 
 </p>
 
 <br/>
@@ -106,14 +98,6 @@
 
 <br/>
 
-<h2 align="center">Certifications</h2>
-<div id="certifications" align="center">
-  <img src="./certified-safe-6-practitioner.png"/>
-  <img src="./aws-certified-cloud-practitioner.png"/>
-</div>
-
-<br/>
-
 <h2 align="center">Connect with me!</h2>
 <div id="connectbadges" align="center">
   <a href="mailto:thomas.childress02@gmail.com">
@@ -125,23 +109,6 @@
   <a href="https://twitter.com/chil_tom2">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" target="_blank"/>
   </a>
-</div>
-
-<br/>
-
-<h2 align="center">Stats ⚡</h2>
-<div id="statscontainer" align="center">
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chiltom&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=chiltom&show_icons=true&theme=gruvbox_light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 </div>
 
 <br/>
