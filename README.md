@@ -1,15 +1,9 @@
-<div align="center">
-  <img src="/yoshi_computer.jpeg" width="400px" height="200px" alt="puter" />
-</div>
-
-<br/>
-
 <p align="center">
-  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="35" height="35" />
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="35" height="35" /><span>\t</span><strong>Hey! I'm Tom.</strong>
 </p>
 
 <p align="center">
-  <strong>Hey! I'm Tom.</strong> 
+  
 </p>
 
 <br/>
